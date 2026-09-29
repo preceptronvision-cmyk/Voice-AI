@@ -1,0 +1,14 @@
+2026-09-19 12:36:24,631 - VoiceAI - INFO - Loading Faster-Whisper model (small) on cpu...
+2026-09-19 12:36:26,848 - VoiceAI - INFO - Faster-Whisper model loaded successfully.
+2026-09-19 12:36:26,876 - VoiceAI - INFO - Microphone stream started (16000Hz, 1 channels).
+2026-09-19 12:36:40,388 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.49s | RTF=0.42x
+2026-09-19 12:36:45,473 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.59s | RTF=0.43x
+2026-09-19 12:36:50,715 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.80s | RTF=0.47x
+2026-09-19 12:36:55,354 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.46s | RTF=0.41x
+2026-09-19 12:37:26,873 - VoiceAI - INFO - Microphone stream stopped.
+2026-09-19 12:40:46,722 - VoiceAI - INFO - Loading Faster-Whisper model (small) on cpu...
+2026-09-19 12:40:49,484 - VoiceAI - INFO - Faster-Whisper model loaded successfully.
+2026-09-19 12:40:50,317 - VoiceAI - INFO - Microphone stream started (16000Hz, 1 channels).
+2026-09-19 12:40:58,957 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.60s | RTF=0.43x
+2026-09-19 12:41:04,136 - VoiceAI - INFO - Whisper: audio=6.00s | processing=2.79s | RTF=0.46x
+2026-09-19 12:41:22,714 - VoiceAI - INFO - Microphone stream stopped.
